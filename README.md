@@ -486,3 +486,4 @@ Huge thanks to [Adrian Hajdin (JavaScript Mastery)](https://github.com/adrianhaj
 GitHub: [adrianhajdin](https://github.com/adrianhajdin)
 YouTube tutorial: [Stock Market App Tutorial](https://www.youtube.com/watch?v=gu4pafNCXng)
 YouTube channel: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+
